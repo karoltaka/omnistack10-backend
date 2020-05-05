@@ -1,0 +1,11 @@
+{
+  "name": "omnistack10-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karoltaka/omnistack10-backend.git",
+  "author": "karoltaka <takahagassi.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
