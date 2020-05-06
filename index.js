@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 
 const app = express();
 
+// Banco de dados
 mongoose.connect('mongodb://admin:admin123@ds045252.mlab.com:45252/devradar',{
   useNewUrlParser: true,
   useUnifiedTopology: true,
