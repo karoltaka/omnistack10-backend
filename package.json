@@ -5,7 +5,14 @@
   "repository": "https://github.com/karoltaka/omnistack10-backend.git",
   "author": "karoltaka <takahagassi.dev@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
